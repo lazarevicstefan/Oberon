@@ -9,3 +9,6 @@
 
   # How to find us
   `Route /how-to-find-us`
+
+  # Login
+  `Route /auth/login`
